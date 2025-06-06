@@ -1,7 +1,5 @@
-## Clone the repository
+## Install libaries
 ```bash
-git clone https://github.com/Tikquuss/IFT6135_W25_A2_release
-cd IFT6135_W25_A2_release
 pip install -r requirements.txt
 ```
 
